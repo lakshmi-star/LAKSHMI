@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\InheritanceProject\obj\Debug\netcoreapp3.0\InheritanceProject.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\InheritanceProject\obj\Debug\netcoreapp3.0\InheritanceProject.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\InheritanceProject\obj\Debug\netcoreapp3.0\InheritanceProject.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\InheritanceProject\bin\Debug\netcoreapp3.0\InheritanceProject.exe
+C:\Users\Pavan\source\repos\InheritanceProject\bin\Debug\netcoreapp3.0\InheritanceProject.deps.json
+C:\Users\Pavan\source\repos\InheritanceProject\bin\Debug\netcoreapp3.0\InheritanceProject.runtimeconfig.json
+C:\Users\Pavan\source\repos\InheritanceProject\bin\Debug\netcoreapp3.0\InheritanceProject.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\InheritanceProject\bin\Debug\netcoreapp3.0\InheritanceProject.dll
+C:\Users\Pavan\source\repos\InheritanceProject\bin\Debug\netcoreapp3.0\InheritanceProject.pdb
+C:\Users\Pavan\source\repos\InheritanceProject\obj\Debug\netcoreapp3.0\InheritanceProject.dll
+C:\Users\Pavan\source\repos\InheritanceProject\obj\Debug\netcoreapp3.0\InheritanceProject.pdb

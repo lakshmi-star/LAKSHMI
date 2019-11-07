@@ -1,0 +1,10 @@
+C:\Users\Pavan\source\repos\Object1\bin\Debug\netcoreapp3.0\Object1.exe
+C:\Users\Pavan\source\repos\Object1\bin\Debug\netcoreapp3.0\Object1.deps.json
+C:\Users\Pavan\source\repos\Object1\bin\Debug\netcoreapp3.0\Object1.runtimeconfig.json
+C:\Users\Pavan\source\repos\Object1\bin\Debug\netcoreapp3.0\Object1.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\Object1\bin\Debug\netcoreapp3.0\Object1.dll
+C:\Users\Pavan\source\repos\Object1\bin\Debug\netcoreapp3.0\Object1.pdb
+C:\Users\Pavan\source\repos\Object1\obj\Debug\netcoreapp3.0\Object1.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\Object1\obj\Debug\netcoreapp3.0\Object1.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\Object1\obj\Debug\netcoreapp3.0\Object1.dll
+C:\Users\Pavan\source\repos\Object1\obj\Debug\netcoreapp3.0\Object1.pdb

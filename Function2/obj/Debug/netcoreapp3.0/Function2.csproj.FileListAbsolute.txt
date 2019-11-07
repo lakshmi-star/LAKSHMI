@@ -1,0 +1,10 @@
+C:\Users\Pavan\source\repos\Function2\bin\Debug\netcoreapp3.0\Function2.exe
+C:\Users\Pavan\source\repos\Function2\bin\Debug\netcoreapp3.0\Function2.deps.json
+C:\Users\Pavan\source\repos\Function2\bin\Debug\netcoreapp3.0\Function2.runtimeconfig.json
+C:\Users\Pavan\source\repos\Function2\bin\Debug\netcoreapp3.0\Function2.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\Function2\bin\Debug\netcoreapp3.0\Function2.dll
+C:\Users\Pavan\source\repos\Function2\bin\Debug\netcoreapp3.0\Function2.pdb
+C:\Users\Pavan\source\repos\Function2\obj\Debug\netcoreapp3.0\Function2.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\Function2\obj\Debug\netcoreapp3.0\Function2.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\Function2\obj\Debug\netcoreapp3.0\Function2.dll
+C:\Users\Pavan\source\repos\Function2\obj\Debug\netcoreapp3.0\Function2.pdb
