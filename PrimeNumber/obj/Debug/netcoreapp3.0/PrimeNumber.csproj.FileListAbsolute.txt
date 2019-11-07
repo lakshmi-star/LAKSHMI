@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\PrimeNumber\bin\Debug\netcoreapp3.0\PrimeNumber.exe
+C:\Users\Pavan\source\repos\PrimeNumber\bin\Debug\netcoreapp3.0\PrimeNumber.deps.json
+C:\Users\Pavan\source\repos\PrimeNumber\bin\Debug\netcoreapp3.0\PrimeNumber.runtimeconfig.json
+C:\Users\Pavan\source\repos\PrimeNumber\bin\Debug\netcoreapp3.0\PrimeNumber.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\PrimeNumber\bin\Debug\netcoreapp3.0\PrimeNumber.dll
+C:\Users\Pavan\source\repos\PrimeNumber\bin\Debug\netcoreapp3.0\PrimeNumber.pdb
+C:\Users\Pavan\source\repos\PrimeNumber\obj\Debug\netcoreapp3.0\PrimeNumber.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\PrimeNumber\obj\Debug\netcoreapp3.0\PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\PrimeNumber\obj\Debug\netcoreapp3.0\PrimeNumber.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\PrimeNumber\obj\Debug\netcoreapp3.0\PrimeNumber.dll
+C:\Users\Pavan\source\repos\PrimeNumber\obj\Debug\netcoreapp3.0\PrimeNumber.pdb

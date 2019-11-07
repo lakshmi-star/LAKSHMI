@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\AccessPublic\obj\Debug\netcoreapp3.0\AccessPublic.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\AccessPublic\obj\Debug\netcoreapp3.0\AccessPublic.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\AccessPublic\bin\Debug\netcoreapp3.0\AccessPublic.exe
+C:\Users\Pavan\source\repos\AccessPublic\bin\Debug\netcoreapp3.0\AccessPublic.deps.json
+C:\Users\Pavan\source\repos\AccessPublic\bin\Debug\netcoreapp3.0\AccessPublic.runtimeconfig.json
+C:\Users\Pavan\source\repos\AccessPublic\bin\Debug\netcoreapp3.0\AccessPublic.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\AccessPublic\bin\Debug\netcoreapp3.0\AccessPublic.dll
+C:\Users\Pavan\source\repos\AccessPublic\bin\Debug\netcoreapp3.0\AccessPublic.pdb
+C:\Users\Pavan\source\repos\AccessPublic\obj\Debug\netcoreapp3.0\AccessPublic.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\AccessPublic\obj\Debug\netcoreapp3.0\AccessPublic.dll
+C:\Users\Pavan\source\repos\AccessPublic\obj\Debug\netcoreapp3.0\AccessPublic.pdb
