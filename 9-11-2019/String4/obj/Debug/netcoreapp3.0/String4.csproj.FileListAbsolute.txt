@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\String4\bin\Debug\netcoreapp3.0\String4.exe
+C:\Users\Pavan\source\repos\String4\bin\Debug\netcoreapp3.0\String4.deps.json
+C:\Users\Pavan\source\repos\String4\bin\Debug\netcoreapp3.0\String4.runtimeconfig.json
+C:\Users\Pavan\source\repos\String4\bin\Debug\netcoreapp3.0\String4.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\String4\bin\Debug\netcoreapp3.0\String4.dll
+C:\Users\Pavan\source\repos\String4\bin\Debug\netcoreapp3.0\String4.pdb
+C:\Users\Pavan\source\repos\String4\obj\Debug\netcoreapp3.0\String4.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\String4\obj\Debug\netcoreapp3.0\String4.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\String4\obj\Debug\netcoreapp3.0\String4.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\String4\obj\Debug\netcoreapp3.0\String4.dll
+C:\Users\Pavan\source\repos\String4\obj\Debug\netcoreapp3.0\String4.pdb

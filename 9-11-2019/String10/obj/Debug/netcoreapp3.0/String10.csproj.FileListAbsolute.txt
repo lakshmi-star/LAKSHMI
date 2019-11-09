@@ -1,0 +1,10 @@
+C:\Users\Pavan\source\repos\String10\bin\Debug\netcoreapp3.0\String10.exe
+C:\Users\Pavan\source\repos\String10\bin\Debug\netcoreapp3.0\String10.deps.json
+C:\Users\Pavan\source\repos\String10\bin\Debug\netcoreapp3.0\String10.runtimeconfig.json
+C:\Users\Pavan\source\repos\String10\bin\Debug\netcoreapp3.0\String10.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\String10\bin\Debug\netcoreapp3.0\String10.dll
+C:\Users\Pavan\source\repos\String10\bin\Debug\netcoreapp3.0\String10.pdb
+C:\Users\Pavan\source\repos\String10\obj\Debug\netcoreapp3.0\String10.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\String10\obj\Debug\netcoreapp3.0\String10.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\String10\obj\Debug\netcoreapp3.0\String10.dll
+C:\Users\Pavan\source\repos\String10\obj\Debug\netcoreapp3.0\String10.pdb

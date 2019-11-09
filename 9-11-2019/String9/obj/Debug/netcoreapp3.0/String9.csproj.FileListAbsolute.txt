@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\String9\bin\Debug\netcoreapp3.0\String9.exe
+C:\Users\Pavan\source\repos\String9\bin\Debug\netcoreapp3.0\String9.deps.json
+C:\Users\Pavan\source\repos\String9\bin\Debug\netcoreapp3.0\String9.runtimeconfig.json
+C:\Users\Pavan\source\repos\String9\bin\Debug\netcoreapp3.0\String9.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\String9\bin\Debug\netcoreapp3.0\String9.dll
+C:\Users\Pavan\source\repos\String9\bin\Debug\netcoreapp3.0\String9.pdb
+C:\Users\Pavan\source\repos\String9\obj\Debug\netcoreapp3.0\String9.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\String9\obj\Debug\netcoreapp3.0\String9.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\String9\obj\Debug\netcoreapp3.0\String9.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\String9\obj\Debug\netcoreapp3.0\String9.dll
+C:\Users\Pavan\source\repos\String9\obj\Debug\netcoreapp3.0\String9.pdb

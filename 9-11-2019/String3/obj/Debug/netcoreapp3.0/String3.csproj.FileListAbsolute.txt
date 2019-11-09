@@ -1,0 +1,10 @@
+C:\Users\Pavan\source\repos\String3\bin\Debug\netcoreapp3.0\String3.exe
+C:\Users\Pavan\source\repos\String3\bin\Debug\netcoreapp3.0\String3.deps.json
+C:\Users\Pavan\source\repos\String3\bin\Debug\netcoreapp3.0\String3.runtimeconfig.json
+C:\Users\Pavan\source\repos\String3\bin\Debug\netcoreapp3.0\String3.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\String3\bin\Debug\netcoreapp3.0\String3.dll
+C:\Users\Pavan\source\repos\String3\bin\Debug\netcoreapp3.0\String3.pdb
+C:\Users\Pavan\source\repos\String3\obj\Debug\netcoreapp3.0\String3.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\String3\obj\Debug\netcoreapp3.0\String3.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\String3\obj\Debug\netcoreapp3.0\String3.dll
+C:\Users\Pavan\source\repos\String3\obj\Debug\netcoreapp3.0\String3.pdb
