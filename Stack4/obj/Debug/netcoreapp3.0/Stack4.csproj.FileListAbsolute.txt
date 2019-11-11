@@ -1,0 +1,11 @@
+C:\Users\Pavan\source\repos\Stack4\bin\Debug\netcoreapp3.0\Stack4.exe
+C:\Users\Pavan\source\repos\Stack4\bin\Debug\netcoreapp3.0\Stack4.deps.json
+C:\Users\Pavan\source\repos\Stack4\bin\Debug\netcoreapp3.0\Stack4.runtimeconfig.json
+C:\Users\Pavan\source\repos\Stack4\bin\Debug\netcoreapp3.0\Stack4.runtimeconfig.dev.json
+C:\Users\Pavan\source\repos\Stack4\bin\Debug\netcoreapp3.0\Stack4.dll
+C:\Users\Pavan\source\repos\Stack4\bin\Debug\netcoreapp3.0\Stack4.pdb
+C:\Users\Pavan\source\repos\Stack4\obj\Debug\netcoreapp3.0\Stack4.csprojAssemblyReference.cache
+C:\Users\Pavan\source\repos\Stack4\obj\Debug\netcoreapp3.0\Stack4.AssemblyInfoInputs.cache
+C:\Users\Pavan\source\repos\Stack4\obj\Debug\netcoreapp3.0\Stack4.AssemblyInfo.cs
+C:\Users\Pavan\source\repos\Stack4\obj\Debug\netcoreapp3.0\Stack4.dll
+C:\Users\Pavan\source\repos\Stack4\obj\Debug\netcoreapp3.0\Stack4.pdb
